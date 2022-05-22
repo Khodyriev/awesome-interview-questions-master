@@ -7,31 +7,31 @@ I have prepared many questions and resources with different topics, with the hel
 ## Topics
 1. [Functional programming](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/functional-programming.md)
 
-2. [OOP](https://github.com/bmarvinb/awesome-interview-questions/blob/master/oop.md)
+2. [OOP](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/oop.md)
 
-3. [OOD](https://github.com/bmarvinb/awesome-interview-questions/blob/master/ood.md)
+3. [OOD](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/ood.md)
 
-4. [Architecture & Design](https://github.com/bmarvinb/awesome-interview-questions/blob/master/design.md)
+4. [Architecture & Design](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/design.md)
 
-5. [Patterns](https://github.com/bmarvinb/awesome-interview-questions/blob/master/patterns.md)
+5. [Patterns](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/patterns.md)
 
-3. [Network](https://github.com/bmarvinb/awesome-interview-questions/blob/master/network.md)
+3. [Network](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/network.md)
 
-4. [TypeScript](https://github.com/bmarvinb/awesome-interview-questions/blob/master/typescript.md)
+4. [TypeScript](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/typescript.md)
 
-5. [JavaScript](https://github.com/bmarvinb/awesome-interview-questions/blob/master/javascript.md)
+5. [JavaScript](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/javascript.md)
 
-6. [Testing](https://github.com/bmarvinb/awesome-interview-questions/blob/master/testing.md)
+6. [Testing](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/testing.md)
 
-7. [PWA](https://github.com/bmarvinb/awesome-interview-questions/blob/master/pwa.md)
+7. [PWA](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/pwa.md)
 
-8. [Git](https://github.com/bmarvinb/awesome-interview-questions/blob/master/git.md)
+8. [Git](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/git.md)
 
-9. [Databases](https://github.com/bmarvinb/awesome-interview-questions/blob/master/databases.md)
+9. [Databases](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/databases.md)
 
-10. [Security](https://github.com/bmarvinb/awesome-interview-questions/blob/master/security.md)
+10. [Security](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/security.md)
 
-11. [Behavior](https://github.com/bmarvinb/awesome-interview-questions/blob/master/behaviour.md)
+11. [Behavior](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/behaviour.md)
 
-12. [Data structures](https://github.com/bmarvinb/awesome-interview-questions/blob/master/data-structures.md)
+12. [Data structures](https://github.com/Khodyriev/awesome-interview-questions-master/blob/main/data-structures.md)
 
